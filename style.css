@@ -1,0 +1,16 @@
+html {
+    margin: clamp(2em,3vw,5rem);
+}
+
+body {
+background: #009688; 
+margin: 0%;
+display: flex;
+justify-content: center;
+
+}
+
+header {
+        color: #efef5e;
+        font-size: clamp(2rem,4vw,5rem);
+}
