@@ -3,20 +3,21 @@ html {
 }
 
 body {
-background: #009688; 
-margin: 0%;
-display: flex;
-justify-content: center;
+    background: #d95959;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
 
 }
 
 header {
-        color: #efef5e;
+font-size: clamp(1rem,3vw,2rem);
+
 }
 
 #pagina {
     display: grid;
- background: #37954b;
+ background: #f0f9f3;
  padding: 10px;
-
+ border-radius: 10px;
 }
