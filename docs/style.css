@@ -12,9 +12,11 @@ justify-content: center;
 
 header {
         color: #efef5e;
-        font-size: clamp(2rem,4vw,5rem);
 }
 
 #pagina {
-    
+    display: grid;
+ background: #37954b;
+ padding: 10px;
+
 }
